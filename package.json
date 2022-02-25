@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/speedymonster/node-grpc-interceptors.git"
+    "url": "git+https://github.com/fonoster/node-grpc-interceptors.git"
   },
   "scripts": {
     "depcheck": "depcheck --ignores=eslint-config-plugin:*",
