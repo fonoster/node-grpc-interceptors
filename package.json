@@ -2,12 +2,12 @@
   "bundleDependencies": false,
   "dependencies": {
     "zipkin": "^0.12.0",
-    "zipkin-transport-http": "^0.12.0"
+    "zipkin-transport-http": "^0.22.0"
   },
   "deprecated": false,
   "description": "This library provides a way to instrument Node.js gRPC clients and servers with interceptors/middleware e.g. for Prometheus metrics, Zipkin tracing etc.",
   "devDependencies": {
-    "depcheck": "^0.6.9",
+    "depcheck": "^1.4.3",
     "protobufjs": "^6.8.6"
   },
   "license": "ISC",
